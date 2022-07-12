@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    padding: 1rem;
+}
+
+h2 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 1rem;
+}
+
+.tabela-moda{
+    margin: .8rem;
+    color: #ffffff;
+}
+
+.titulo-tabela-moda {
+    font-size: 2rem;
+    background-color: #BB86FC;
+}
+
+.titulo-tabela-moda th {
+    padding: .5rem;
+}
+
+.tabela-casa{
+    margin: .8rem;
+    color: #ffffff;
+}
+
+.titulo-tabela-casa {
+    font-size: 2rem;
+    background-color: #00C4B4;
+}
+
+.titulo-tabela-casa th {
+    padding: .5rem;
+}
+
+.informacao {
+    background-color: #424250;
+    font-size: 2rem;
+}
+
+.informacao td {
+    padding: .5rem;
+}
